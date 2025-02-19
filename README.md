@@ -16,56 +16,9 @@ You can play the game [here](#) (Add your deployed Vercel link).
 - CSS for styling  
 
 ## 📂 Project Setup  
-To run this project locally, follow these steps:  
+To run this project locally, follow these steps:
 
-1. **Clone the repository:**  
+### 1. Clone the repository
    ```sh
    git clone <repository-url>
-Navigate to the project folder:
-sh
-Copy
-Edit
-cd dice-game
-Install dependencies:
-sh
-Copy
-Edit
-npm install
-Start the development server:
-sh
-Copy
-Edit
-npm start
-Open http://localhost:3000 in your browser.
-🚀 Deployment on Vercel
-You can deploy this project on Vercel by following these steps:
-
-Install Vercel CLI:
-sh
-Copy
-Edit
-npm install -g vercel
-Login to Vercel:
-sh
-Copy
-Edit
-vercel login
-Initialize the Project:
-sh
-Copy
-Edit
-vercel
-Deploy the Project:
-sh
-Copy
-Edit
-vercel --prod
-📌 Features
-✔️ Built with React.js
-✔️ Dynamic Dice Rolling Animation
-✔️ Score Calculation
-✔️ Interactive UI
-
-📜 License
-This project is open-source and free to use.
 
